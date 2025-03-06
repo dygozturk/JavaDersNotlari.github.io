@@ -1,4 +1,4 @@
-# Java Notları 📖💻
+# Java Dili Öğrenme Notları 📖💻
 
 Bu proje, **Java** programlama diliyle ilgili temel konuları, veri tiplerini, bellek yönetimini ve önemli kavramları öğrenmek isteyenler için hazırlanmış **interaktif bir web sitesi** içerir. 🚀
 
